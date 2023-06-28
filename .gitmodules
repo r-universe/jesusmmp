@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "exams2sakai"]
 	path = exams2sakai
 	url = https://github.com/jesusmmp/exams2sakai
-	shallow = true
-	registered = true
